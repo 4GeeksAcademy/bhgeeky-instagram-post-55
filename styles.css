@@ -1,0 +1,43 @@
+
+.postcontent {
+    margin-left: 750px;
+    margin-right: 700px;
+    border: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+img {
+    width: 400px;
+    height: 400px;
+
+}
+.bookmark {
+    float: right;
+    margin-right: 20px;
+}
+.icons {
+    margin-left: 5px;
+    margin-top: 10px;
+}
+p {
+    margin-left: 5px;
+    margin-right: 10px;
+}
+.postheader {
+    display: flex;
+}
+.HTML {
+    font-size: large;
+    margin-left: 5px;
+}
+.phname {
+    position: absolute;
+    top: 32px; left: 787px;
+    font-size: medium;
+}
+.option {
+    position: relative;
+    float: right;
+    margin-left: 285px;
+    margin-top: 28px;
+    
+}
